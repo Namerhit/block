@@ -1,0 +1,54 @@
+table{
+
+	border-style: solid;
+	width: 60%;
+	height: 500px;
+
+}
+#Mon{
+	background-color: #085e42;
+	border-style: solid; 
+}
+#Tue{
+	background-color: #085e42;
+	border-style: solid; 
+}
+#Wed{
+	background-color: #085e42;
+	border-style: solid; 
+}
+#Thu{
+	background-color: #085e42;
+	border-style: solid; 
+}
+#Fri{
+	background-color: #085e42;
+	border-style: solid; 
+}
+#empty{
+	background-image: linear-gradient(to right, red, purple);
+	border-style: solid; 
+}
+#sub{
+	background-image: linear-gradient(to right, #a40bdb, #000000);
+	border-style: solid; 
+	color: gold;
+	border-color: black;
+
+
+
+}
+#time{
+	background-image: linear-gradient(to right, #02f7f3, #000000);
+	border-style: solid; 
+	color: white;
+	border-color: black;
+
+
+}
+#sub:hover {
+  
+  transform: scale(2);
+  transition: transform .2s; 
+}
+  
